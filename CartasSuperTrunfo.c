@@ -27,5 +27,4 @@ printf("PIB: %f \n",PIB);
 printf("Número de pontos turiísticos: %f \n" ,turísticos);
 
 return 0;
-
 }
